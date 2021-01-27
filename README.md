@@ -4,6 +4,7 @@ The implementation of QHM optimizer using PaddlePaddle
 # What is QHM
 
 The original paper is [paper](https://arxiv.org/pdf/1810.06801)
+
 The original code repository is [code](https://github.com/facebookresearch/qhoptim/)
 
 ![QHM rule](qhm.png)
